@@ -17,7 +17,7 @@ public class Test3 {
 		System.out.println("Test3-demo4");
 	}
 	public void demo5() {
-		System.out.println("Test3-demo5");
+		System.out.println("Test3-demo6");
 	}
 	public void demo6() {
 		System.out.println("Test3-demo6");
